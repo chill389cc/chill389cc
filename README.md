@@ -1,5 +1,5 @@
 - Hi, I’m @chill389cc
-- I’m interested in learning programming concepts, code optimization, and ways to improve efficiency. 
+- I’m specifically interested in learning programming concepts, code optimization, and ways to improve efficiency. However, I'm looking for any way to grow as a programmer. 
 - I’m looking to collaborate on simple and beginner projects, to start. 
 - How to reach me: chill389cc@gmail.com is always a good place!
 
