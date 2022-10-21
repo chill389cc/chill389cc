@@ -1,7 +1,6 @@
 <p align="center">
  <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=460&height=62&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently.;Sometimes+I+use+this+frog+as+my+profile+picture." alt="Typing SVG" />
- 
- <!-- TO EDIT THE TEXT IMAGE: https://readme-typing-svg.demolab.com/demo/ -->
+ <!-- edit: https://readme-typing-svg.demolab.com/demo/ -->
  
  <h2 align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
  <p align="center"></p>
@@ -12,7 +11,6 @@
 - Works with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis
 - Also uses C, C++, Python, Excel, HTML/CSS
 - Developer for [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
-<!-- > <sub><sup>Written in Nodejs and a bit of powershell, published to npm</sup></sub> -->
 
 <a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact"/></a>
 
@@ -23,11 +21,6 @@
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight) -->
 
-<!---- <a href="https://github.com/chill389cc/chill389cc/blob/main/R%C3%A9sum%C3%A9.pdf">Resume</a>--->
-<!---
-chill389cc/chill389cc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <!--
 Cool Vercell Visualizations that I could use one day when I write more public code:
 Shows my (public) stats:
