@@ -1,13 +1,16 @@
 <p align="center">
- <img align="left" width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" />
- <a href="https://git.io/typing-svg"><img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=1000&multiline=true&width=460&height=66&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently.;Sometimes+I+use+this+frog+as+my+profile+picture." alt="Typing SVG" /></a>
- <!-- TO EDIT THE TEXT ABOVE: https://readme-typing-svg.demolab.com/demo/ -->
+ <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=1000&color=58A6FF&multiline=true&width=460&height=62&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently.;Sometimes+I+use+this+frog+as+my+profile+picture." alt="Typing SVG" />
+ 
+ <!-- TO EDIT THE TEXT IMAGE: https://readme-typing-svg.demolab.com/demo/ -->
+ 
  <h2 align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
  <p align="center"></p>
 </p>
+ <img align="right" width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" />
 
 - Full-stack software developer for the Office of IT on BYU Campus
 - Works with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis
+- Also uses C, C++, Python, Excel, HTML/CSS
 - Developer for [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
 <!-- > <sub><sup>Written in Nodejs and a bit of powershell, published to npm</sup></sub> -->
 
