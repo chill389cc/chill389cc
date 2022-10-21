@@ -1,5 +1,5 @@
 <p align="center">
- <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=1000&color=58A6FF&multiline=true&width=460&height=62&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently.;Sometimes+I+use+this+frog+as+my+profile+picture." alt="Typing SVG" />
+ <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=460&height=62&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently.;Sometimes+I+use+this+frog+as+my+profile+picture." alt="Typing SVG" />
  
  <!-- TO EDIT THE TEXT IMAGE: https://readme-typing-svg.demolab.com/demo/ -->
  
@@ -14,11 +14,11 @@
 - Developer for [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
 <!-- > <sub><sup>Written in Nodejs and a bit of powershell, published to npm</sup></sub> -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact"/>
+<a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact"/></a>
 
-### *Where You Can Find Me*
+#### Where You Can Find Me
 - Emails: <a href = "mailto: chill389cc@gmail.com">informal</a>, <a href = "mailto: calebanthonyhill@gmail.com">business</a>
-- [LinkedIn](https://www.linkedin.com/in/calebanthonyhill/), [npm](https://www.npmjs.com/~chill389cc), [cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934), [gravatar](https://en.gravatar.com/calebahill7)
+- [LinkedIn](https://www.linkedin.com/in/calebanthonyhill/), [npm](https://www.npmjs.com/~chill389cc), [Cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934), [Gravatar](https://en.gravatar.com/calebahill7), [WakaTime](https://wakatime.com/@chill389cc)
 - Discord: [chill389cc#1920](https://discordapp.com/users/chill389cc#1920)
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight) -->
