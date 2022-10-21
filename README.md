@@ -13,21 +13,21 @@
 - I'm working as a full-stack software developer for the Office of IT on BYU Campus and I'm loving it!
   - All of our code is in a private organization so while you can't see exactly what I've worked on, you can see my contribution amounts in the graph below. 
   - Or, check out my Wakatime graph to see what languages I'm using!
-> <sub><sup>I mostly deal in NodeJS, Typescript, and Vue/Nuxt but I also have to use SQL, Terraform (on AWS), Svelte, and other languages.</sup></sub>
-> <sub></br></sub>
-> <sub><sup>We test heavily with Postman, deploying to AWS EC2 in docker through Github Actions.</sup></sub>
+<!-- <sub><sup>I mostly deal in NodeJS, Typescript, and Vue/Nuxt but I also have to use SQL, Terraform (on AWS), Svelte, and other languages.</sup></sub>
+<sub></br></sub>
+<sub><sup>We test heavily with Postman, deploying to AWS EC2 in docker through Github Actions.</sup></sub>
+-->
 - A friend and I were frustrated with managing terraform versions so we built [tfvm-windows](https://github.com/jsterner30/tfvm-windows)! It's simple to setup and use.
-> <sub><sup>Written in Nodejs and a bit of powershell, published to npm</sup></sub>
+<!-- > <sub><sup>Written in Nodejs and a bit of powershell, published to npm</sup></sub> -->
 
 ### *Where You Can Find Me*
-- Email (informal): <a href = "mailto: chill389cc@gmail.com">chill389cc@gmail.com</a>
-- Email (business): <a href = "mailto: calebanthonyhill@gmail.com">calebanthonyhill@gmail.com</a>
+- Emails: <a href = "mailto: chill389cc@gmail.com">informal</a>, <a href = "mailto: calebanthonyhill@gmail.com">business</a>
 - LinkedIn: [Caleb Hill](https://www.linkedin.com/in/calebanthonyhill/)
 - Discord: [chill389cc#1920](https://discordapp.com/users/chill389cc#1920)
 - [npm](https://www.npmjs.com/~chill389cc), [cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934), [gravatar](https://en.gravatar.com/calebahill7)
 
 ![My Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact)
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight)
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight) -->
 
 <!---- <a href="https://github.com/chill389cc/chill389cc/blob/main/R%C3%A9sum%C3%A9.pdf">Resume</a>--->
 <!---
