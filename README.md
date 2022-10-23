@@ -9,8 +9,8 @@
 
 - Full-stack software developer for the Office of IT on BYU Campus
 - Works with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis
-- Also uses C, C++, Python, Excel, HTML/CSS
-- Developer for [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
+- Also uses C, C++, Python, Excel, HTML/CSS and always looking to learn new technologies and languages.
+- Loves working on personal projects like [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
 
 <a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact"/></a>
 
