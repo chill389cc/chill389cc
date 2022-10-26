@@ -12,7 +12,7 @@
 - Also uses C, C++, Python, Excel, HTML/CSS and always looking to learn new technologies and languages.
 - Loves working on personal projects like [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
 
-<a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact"/></a>
+<a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>
 
 #### Where You Can Find Me
 - Emails: <a href = "mailto: chill389cc@gmail.com">informal</a>, <a href = "mailto: calebanthonyhill@gmail.com">business</a>
