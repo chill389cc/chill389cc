@@ -15,9 +15,11 @@
 <a href="https://wakatime.com/@chill389cc" target="_blank"><img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>
 
 #### Where You Can Find Me
-- Emails: <a href = "mailto: chill389cc@gmail.com">informal</a>, <a href = "mailto: calebanthonyhill@gmail.com">business</a>
-- [LinkedIn](https://www.linkedin.com/in/calebanthonyhill/), [npm](https://www.npmjs.com/~chill389cc), [Cemetech](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934), [Gravatar](https://en.gravatar.com/calebahill7), [WakaTime](https://wakatime.com/@chill389cc)
-- Discord: [chill389cc#1920](https://discordapp.com/users/chill389cc#1920)
+- Emails:
+  - informal: <a href = "mailto: chill389cc@gmail.com">`chill389cc@gmail.com`</a>
+  - business: <a href = "mailto: calebanthonyhill@gmail.com">`calebanthonyhill@gmail.com`</a>
+- Discord: [`chill389cc#1920`](https://discordapp.com/users/chill389cc#1920)
+- [`LinkedIn`](https://www.linkedin.com/in/calebanthonyhill/), [`npm`](https://www.npmjs.com/~chill389cc), [`Cemetech`](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934), [`Gravatar`](https://en.gravatar.com/calebahill7), [`WakaTime`](https://wakatime.com/@chill389cc), [`Postman`](https://www.postman.com/chill389cc), [`StackOverflow`](https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity)
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight) -->
 
@@ -36,4 +38,9 @@ Ones I could use someday:
 https://komarev.com/ghpvc/?username=3kh0&label=Profile Visitors&color=001eff&style=flat
 
   <img alt="" src="https://img.shields.io/badge/Uses-Firefox-red/?logo=firefoxbrowser&color=ff9500">
+-->
+
+<!--
+Notes to myself for future editing!
+I think maybe a cool effect for the tags would be alternating <sup><sub> and <sub><sup> tags. I should experiment with other html-markdown combinations to create a profile that is unique and eye-catching, memorable, but not intrusive or ugly, or confusing. Just enough information to be cool.
 -->
