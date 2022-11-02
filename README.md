@@ -27,7 +27,7 @@
 <a href="https://monkeytype.com/profile/chill389cc" title="I like typing">`Monkeytype`</a>
 <!--[`Gravatar`](https://en.gravatar.com/calebahill7)-->
 
- <sub><span title="target=&quot;_blank&quot; doesn't work in markdown :(">Don't get lost: Always `Ctrl/Cmd + Click` links.</span></sub><br/>
+ <sub><span title="target=&quot;_blank&quot; doesn't work in markdown :(">Don't get lost: Always `Ctrl/Cmd + Shift + Click` links.</span></sub><br/>
 <sup><span title="Just like that! Great job.">**Hover over the text, links and pictures for more info!**</span></sup>
 
 <!--<img align="right" title="Reach out to collaborate or with any questions!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=331&height=44&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently." alt="Typing SVG" />-->
