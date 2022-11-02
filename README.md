@@ -15,18 +15,16 @@
 <span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU</span>
 
 <!--#### Where You Can Find Me-->
-<a href="mailto: chill389cc@gmail.com"                 title="informal email">`chill389cc@gmail.com`</a>,
-<a href="mailto: calebanthonyhill@gmail.com"           title="business email">`calebanthonyhill@gmail.com`</a>,
-<a href="https://discordapp.com/users/chill389cc#1920" title="chill389cc#1920" target="_blank">`Discord`</a>,
-[`LinkedIn`](https://www.linkedin.com/in/calebanthonyhill/),
-[`npm`](https://www.npmjs.com/~chill389cc),
-[`Cemetech`](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934),
-[`WakaTime`](https://wakatime.com/@chill389cc),
-[`Postman`](https://www.postman.com/chill389cc),
+<a href="mailto: chill389cc@gmail.com"                 title="informal email">`chill389cc@gmail.com`</a>
+[`LinkedIn`](https://www.linkedin.com/in/calebanthonyhill/)
+[`WakaTime`](https://wakatime.com/@chill389cc)
+<a href="mailto: calebanthonyhill@gmail.com"           title="business email">`calebanthonyhill@gmail.com`</a>
+<a href="https://discordapp.com/users/chill389cc#1920" title="chill389cc#1920" target="_blank">`Discord`</a>
+[`npm`](https://www.npmjs.com/~chill389cc)
+[`Cemetech`](https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934)
+[`Postman`](https://www.postman.com/chill389cc)
 [`StackOverflow`](https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity)
-
-<!--[`Gravatar`](https://en.gravatar.com/calebahill7),-->
-
+<!--[`Gravatar`](https://en.gravatar.com/calebahill7)-->
 
 <!--<img align="right" title="Reach out to collaborate or with any questions!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=331&height=44&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently." alt="Typing SVG" />-->
  <!-- edit: https://readme-typing-svg.demolab.com/demo/ -->
