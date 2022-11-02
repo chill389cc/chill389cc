@@ -1,6 +1,5 @@
 <p align="center">
  <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>
- <!-- edit: https://readme-typing-svg.demolab.com/demo/ -->
   <img align="right" title="Sometimes I use this frog as my profile picture." width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" />
  <h2 align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
 </p>
@@ -13,7 +12,7 @@
 -->
 
 <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>-->
-<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis here.">Software developer for the Office of IT on BYU Campus</span>
+<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU</span>
 
 <!--#### Where You Can Find Me-->
 <a href="mailto: chill389cc@gmail.com"                 title="informal email">`chill389cc@gmail.com`</a>,
@@ -29,7 +28,8 @@
 <!--[`Gravatar`](https://en.gravatar.com/calebahill7),-->
 
 
-<img align="right" title="Reach out to collaborate or with any questions!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=460&height=44&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently." alt="Typing SVG" />
+<!--<img align="right" title="Reach out to collaborate or with any questions!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=331&height=44&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently." alt="Typing SVG" />-->
+ <!-- edit: https://readme-typing-svg.demolab.com/demo/ -->
 
 <!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=chill389cc&count_private=true&hide=stars,prs,issues,contribs&theme=tokyonight) -->
 
