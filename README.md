@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML,text,HCL,XML,CMake"/></a>
+ <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,Makefile"/></a>
   <a href="#"><img align="right" title="Sometimes I use this frog as my profile picture." width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" /></a>
  <!-- Add a better link to the frog image -->
  <h2 title="Welcome to my GitHub profile!" align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
