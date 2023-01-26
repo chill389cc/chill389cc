@@ -20,12 +20,12 @@
 <a href="https://www.linkedin.com/in/calebanthonyhill/" title="Feel free to connect with me!">`LinkedIn`</a>
 <a href="https://wakatime.com/@chill389cc"              title="This great app tracks my coding time and languages.">`WakaTime`</a>
 <a href="mailto: calebanthonyhill@gmail.com"            title="My 'business' email">`calebanthonyhill@gmail.com`</a>
-<a href="#?my_discord_username=chill389cc#1920"  title="add me: `chill389cc#1920`">`Discord`</a>
+<a href="#?my_discord_username=chill389cc#1920"         title="add me: chill389cc#1920">`Discord`</a>
 <a href="https://www.npmjs.com/~chill389cc"             title="I've published one or two things here.">`npm`</a>
 <a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!">`Cemetech`</a>
-<a href="https://www.postman.com/chill389cc"            title="Postman makes API's fun.">`Postman`</a>
 <a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime.">`StackOverflow`</a>
 <a href="https://monkeytype.com/profile/chill389cc"     title="I like typing">`Monkeytype`</a>
+<a href="https://www.postman.com/chill389cc"            title="Postman makes API's fun.">`Postman`</a>
 <!--<a href="https://discordapp.com/users/chill389cc#1920"  title="add me: `chill389cc#1920`">`Discord`</a>-->
 <!--[`Gravatar`](https://en.gravatar.com/calebahill7)-->
 
