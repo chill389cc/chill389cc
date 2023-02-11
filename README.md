@@ -19,7 +19,7 @@
 <a href="mailto: chill389cc@gmail.com"                  title="My informal email">`chill389cc@gmail.com`</a>
 <a href="https://www.linkedin.com/in/calebanthonyhill/" title="Feel free to connect with me!">`LinkedIn`</a>
 <a href="https://wakatime.com/@chill389cc"              title="This great app tracks my coding time and languages.">`WakaTime`</a>
-<a href="mailto: calebanthonyhill@gmail.com"            title="My 'business' email">`calebanthonyhill@gmail.com`</a>
+<a href="mailto: hillcaleb@protonmail.com"              title="My 'business' email">`hillcaleb@protonmail.com`</a>
 <a href="#?my_discord_username=chill389cc#1920"         title="add me: chill389cc#1920">`Discord`</a>
 <a href="https://www.npmjs.com/~chill389cc"             title="I've published one or two things here.">`npm`</a>
 <a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!">`Cemetech`</a>
