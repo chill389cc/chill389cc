@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,Docker,TOML,Jade,Pug,Svelte"/></a>
+ <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,Docker,TOML,Jade,Pug,Svelte,SVG"/></a>
   <a href="#"><img align="right" title="Sometimes I use this frog as my profile picture." width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" /></a>
  <!-- Add a better link to the frog image -->
  <h2 title="Welcome to my GitHub profile!" align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
@@ -13,15 +13,15 @@
 -->
 
 <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>-->
-<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU</span>
+<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU</span>
 
 <!--#### Where You Can Find Me-->
-<a href="mailto: chill389cc@gmail.com"                  title="My informal email">`chill389cc@gmail.com`</a>
-<a href="https://www.linkedin.com/in/calebanthonyhill/" title="Feel free to connect with me!">`LinkedIn`</a>
-<a href="https://wakatime.com/@chill389cc"              title="This great app tracks my coding time and languages.">`WakaTime`</a>
-<a href="mailto: hillcaleb@protonmail.com"              title="My 'business' email">`hillcaleb@protonmail.com`</a>
-<a href="#?my_discord_username=chill389cc#1920"         title="add me: chill389cc#1920">`Discord`</a>
-<a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime.">`StackOverflow`</a>
+<a href="mailto: chill389cc@gmail.com"                                        title="My informal email"                                   >`chill389cc@gmail.com`</a>
+<a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
+<a href="https://wakatime.com/@chill389cc"                                    title="This great app tracks my coding time and languages." >`WakaTime`</a>
+<a href="mailto: hillcaleb@protonmail.com"                                    title="My 'business' email"                                 >`hillcaleb@protonmail.com`</a>
+<a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>
+<a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>
 <!-- <a href="https://www.npmjs.com/~chill389cc"             title="I've published one or two things here.">`npm`</a> -->
 <!-- <a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!">`Cemetech`</a> -->
 <!-- <a href="https://monkeytype.com/profile/chill389cc"     title="I like typing">`Monkeytype`</a> -->
