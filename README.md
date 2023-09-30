@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,Docker,TOML,Jade,Pug,Svelte,SVG,Ezhil,ReST"/></a>
+ <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,Docker,TOML,Jade,Pug,Svelte,SVG,Ezhil,ReST,TSQL"/></a>
   <a href="#"><img align="right" title="Sometimes I use this frog as my profile picture." width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" /></a>
  <!-- Add a better link to the frog image -->
  <h2 title="Welcome to my GitHub profile!" align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
@@ -13,14 +13,15 @@
 -->
 
 <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>-->
-<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU</span>
+<span title="I work with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU. <!--Earned a perfect score on the CodeSignal General Coding Framework test (see [here](https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8)).--></span>
 
 <!--#### Where You Can Find Me-->
 <a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
 <a href="https://wakatime.com/@chill389cc"                                    title="This great app tracks my coding time and languages." >`WakaTime`</a>
 <a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>
 <a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>
-<a href="https://app.codesignal.com/profile/chill389cc"                       title="Code interview practice is a necessity"              >`CodeSignal`</a>
+<br><a href="https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8" title="This was a required test while interviewing for Lucid">`600/600 CodeSignal CDF Test Result`</a>
+<!--<a href="https://app.codesignal.com/profile/chill389cc"                       title="Code interview practice is a necessity"              >`CodeSignal`</a>-->
 <!--<em><a href="mailto: hillcaleb@protonmail.com"                                title="My 'business' email"                                 >`hillcaleb@protonmail.com`</a></em>-->
 <!--<em><a href="mailto: chill389cc@gmail.com"                                    title="My informal email"                                   >`chill389cc@gmail.com`</a></em>-->
 <!-- <a href="https://www.npmjs.com/~chill389cc"             title="I've published one or two things here.">`npm`</a> -->
