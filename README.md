@@ -20,7 +20,7 @@
 <a href="https://wakatime.com/@chill389cc"                                    title="This great app tracks my coding time and languages." >`WakaTime`</a>
 <a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>
 <a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>
-<br><a href="https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8" title="This was a required test while interviewing for Lucid">`600/600 CodeSignal CDF Test Result`</a>
+<!--<br><a href="https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8" title="This was a required test while interviewing for Lucid">`600/600 CodeSignal CDF Test Result`</a>-->
 <!--<a href="https://app.codesignal.com/profile/chill389cc"                       title="Code interview practice is a necessity"              >`CodeSignal`</a>-->
 <!--<em><a href="mailto: hillcaleb@protonmail.com"                                title="My 'business' email"                                 >`hillcaleb@protonmail.com`</a></em>-->
 <!--<em><a href="mailto: chill389cc@gmail.com"                                    title="My informal email"                                   >`chill389cc@gmail.com`</a></em>-->
