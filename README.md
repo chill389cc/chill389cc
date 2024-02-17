@@ -17,12 +17,12 @@
 
 <!--#### Where You Can Find Me-->
 <a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
+<a href="https://www.credly.com/users/calebhill"                              title="Credentials that I've earned, shown on Credly"       >`Creds`</a>
 <a href="https://wakatime.com/@chill389cc"                                    title="This great app tracks my coding time and languages." >`WakaTime`</a>
 <a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>
 <a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>
 <a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!"                      >`Cemetech`</a>
 <a href="https://monkeytype.com/profile/chill389cc"                           title="I like typing"                                       >`Monkeytype`</a>
-<a href="https://www.credly.com/users/calebhill"                              title="Credentials that I've earned, shown on Credly"       >`Creds`</a>
 <!--<br><a href="https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8" title="This was a required test while interviewing for Lucid">`600/600 CodeSignal CDF Test Result`</a>-->
 <!--<a href="https://app.codesignal.com/profile/chill389cc"                       title="Code interview practice is a necessity"              >`CodeSignal`</a>-->
 <!--<em><a href="mailto: hillcaleb@protonmail.com"                                title="My 'business' email"                                 >`hillcaleb@protonmail.com`</a></em>-->
