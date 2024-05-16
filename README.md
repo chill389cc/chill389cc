@@ -13,7 +13,7 @@
 -->
 
 <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>-->
-<span title="I work with Node.js, TypeScript, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software developer for the Office of IT at BYU. <!--Earned a perfect score on the CodeSignal General Coding Framework test (see [here](https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8)).--></span>
+<span title="I work with Node.js, TypeScript, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software Developer. <!--Earned a perfect score on the CodeSignal General Coding Framework test (see [here](https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8)).--></span>
 
 <!--#### Where You Can Find Me-->
 <a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
