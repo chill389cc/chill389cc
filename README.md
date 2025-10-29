@@ -1,19 +1,13 @@
 <p align="center">
- <a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,TOML,Jade,Pug,SVG,Ezhil,ReST,TSQL,Scilab,INI,Kotlin,Jelly,Properties"/></a>
+ <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These are the languages I've used most since October 2022." align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&layout=compact&range=all_time&hide=JSON,YAML,Other,Git,git%20Config,PowerShell,SCSS,CSS,text,HCL,XML,CMake,Shell%20Script,Gitignore%20file,gitignore,Makefile,SourceMap,AUTO_DETECTED,TSConfig,sshconfig,confini,textmate,IDEA_MODULE,Groovy,Gradle,.env%20file,CSV/TSV,yarn.lock,Bash,API%20Blueprint,Markdown,TOML,Jade,Pug,SVG,Ezhil,ReST,TSQL,Scilab,INI,Kotlin,Jelly,Properties"/></a>-->
   <a href="#"><img align="right" title="Sometimes I use this frog as my profile picture." width="50px" src="https://secure.gravatar.com/avatar/7087ef0468968fd76ab54243579fb6d4" align="center" alt="(My Profile Picture)" /></a>
  <!-- Add a better link to the frog image -->
  <h2 title="Welcome to my GitHub profile!" align="center">Caleb Hill <sub><sup>(<code>chill389cc</code>)</sup></sub></h2>
 </p>
 
-<!--
-- Full-stack software developer for the Office of IT on BYU Campus
-- Works with NodeJS, Typescript, Vue/Nuxt, SQL, Terraform (on AWS), and Postman on a daily basis
-- Also uses C, C++, Python, Excel, HTML/CSS and always looking to learn new technologies and languages.
-- Loves working on personal projects like [tfvm-windows](https://github.com/jsterner30/tfvm-windows)
--->
 
 <!--<a href="https://wakatime.com/@chill389cc" target="_blank"><img title="These stats are for the last 2 weeks" align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=chill389cc&theme=tokyonight&layout=compact&hide=JSON,YAML"/></a>-->
-<span title="I work with Node.js, TypeScript, SQL, Terraform (for AWS), and Postman on a daily basis here.">Software Engineer @ Lucid <!--Earned a perfect score on the CodeSignal General Coding Framework test (see [here](https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8)).--></span>
+<span>Software Engineer @ Lucid <!--Earned a perfect score on the CodeSignal General Coding Framework test (see [here](https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8)).--></span>
 
 <!--#### Where You Can Find Me-->
 <a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
