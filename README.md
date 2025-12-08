@@ -11,12 +11,12 @@
 
 <!--#### Where You Can Find Me-->
 <a href="https://www.linkedin.com/in/calebahill/"                             title="Feel free to connect with me!"                       >`LinkedIn`</a>
-<a href="https://www.credly.com/users/calebhill"                              title="Credentials that I've earned, shown on Credly"       >`Creds`</a>
-<a href="https://wakatime.com/@chill389cc"                                    title="I used to use this app to track my coding time and languages." >`WakaTime`</a>
-<a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>
-<a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>
-<a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!"                      >`Cemetech`</a>
 <a href="https://monkeytype.com/profile/chill389cc"                           title="I like typing"                                       >`Monkeytype`</a>
+<!--<a href="https://www.credly.com/users/calebhill"                              title="Credentials that I've earned, shown on Credly"       >`Creds`</a>-->
+<!--<a href="https://wakatime.com/@chill389cc"                                    title="I used to use this app to track my coding time and languages." >`WakaTime`</a>-->
+<!--<a href="#?my_discord_username=chill389cc"                                    title="add me: chill389cc"                                  >`Discord`</a>-->
+<!--<a href="https://stackoverflow.com/users/6901706/chill389cc?tab=topactivity"  title="Solving problems is a favorite pasttime."            >`StackOverflow`</a>-->
+<!--<a href="https://www.cemetech.net/forum/profile.php?mode=viewprofile&u=11934" title="Come see my first coding site!"                      >`Cemetech`</a>-->
 <!--<br><a href="https://app.codesignal.com/evaluation-result/3FBkwR8BLBEPsWE5w?accessToken=2PN6t67NPfieQCxkH-dW4oWjkGfopG3Lgi7SMxr5n8" title="This was a required test while interviewing for Lucid">`600/600 CodeSignal CDF Test Result`</a>-->
 <!--<a href="https://app.codesignal.com/profile/chill389cc"                       title="Code interview practice is a necessity"              >`CodeSignal`</a>-->
 <!--<em><a href="mailto: hillcaleb@protonmail.com"                                title="My 'business' email"                                 >`hillcaleb@protonmail.com`</a></em>-->
@@ -25,8 +25,8 @@
 <!-- <a href="https://www.postman.com/chill389cc"            title="Postman makes API's fun.">`Postman`</a> -->
 <!--[`Gravatar`](https://en.gravatar.com/calebahill7)-->
 
-<sub><span title="target=&quot;_blank&quot; doesn't work in markdown :(">Don't get lost: Always `Ctrl/Cmd + Shift + Click` links.</span></sub><br/>
-<sup><span title="Just like that! Great job.">**Hover over the text, links and pictures for more info!**</span></sup>
+<!--<sub><span title="target=&quot;_blank&quot; doesn't work in markdown :(">Don't get lost: Always `Ctrl/Cmd + Shift + Click` links.</span></sub><br/>-->
+<!--<sup><span title="Just like that! Great job.">**Hover over the text, links and pictures for more info!**</span></sup>-->
 
 <!--<img align="right" title="Reach out to collaborate or with any questions!" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=9&duration=1000&pause=1000&color=58A6FF&multiline=true&width=331&height=44&lines=I'm+a+student+at+Brigham+Young+University+studying+Computer+Science.;I'm+currently+living+in+Provo%2C+UT+and+I+hope+to+graduate+in+Winter+of+2024.;I%E2%80%99m+interested+in+software+engineering+and+solving+problems+efficiently." alt="Typing SVG" />-->
  <!-- edit: https://readme-typing-svg.demolab.com/demo/ -->
